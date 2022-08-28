@@ -1,16 +1,15 @@
-### Hi there 👋
 
-<!--
-**hnamle/hnamle** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+# Hi, I'm Nam! 👋
 
-Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🚀 About Me
+I'm a Mathematics major at University of California, San Diego. I'm an aspiring Machine Learning engineer.
+
+
+## 🛠 Skills
+1. Python
+2. R
+3. SQL
+4. Tableau
+5. Statistics and Machine Learning
+
